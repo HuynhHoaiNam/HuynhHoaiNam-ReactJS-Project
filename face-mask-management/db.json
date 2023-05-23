@@ -1,0 +1,85 @@
+{
+  "faceMask": [
+    {
+      "id": 2,
+      "name": "Promask N95",
+      "manufacture": "Việt Nam",
+      "color": "Trắng",
+      "note": "Chỉ sử dụng 1 lần"
+    },
+    {
+      "name": "Niva",
+      "manufacture": "Việt Nam",
+      "color": "Đen",
+      "note": "Chỉ sử dụng 1 lần",
+      "id": 3
+    },
+    {
+      "name": "KHATRACO",
+      "manufacture": "Mỹ",
+      "color": "Xám",
+      "note": "Chỉ sử dụng nhiều lần",
+      "id": 4
+    },
+    {
+      "name": "Unicharm 3D",
+      "manufacture": "Trung Quốc",
+      "color": "Hồng - Đen - Xám",
+      "note": "Có thể sử dụng nhiều lần",
+      "id": 5
+    },
+    {
+      "name": "Hanvico Nano",
+      "manufacture": "Mỹ",
+      "color": "Xám - Đen - Trắng",
+      "note": "Chống khói bụi ",
+      "id": 6
+    },
+    {
+      "name": "An Phúc 4 Lớp",
+      "manufacture": "U Cà",
+      "color": "Đen than",
+      "note": "Chỉ sử dụng một lần, không dùng chung với người khác.",
+      "id": 7
+    },
+    {
+      "name": "Trường Dương KF94",
+      "manufacture": "Trung Quốc",
+      "color": "Xám - Đen",
+      "note": "Giặt sử dụng lại",
+      "id": 8
+    },
+    {
+      "name": "Unicharm",
+      "manufacture": "Nhật Bản",
+      "color": "Giao màu ngẫu nhiên",
+      "note": "Nơi khô ráo, thoáng mát, sử dụng 1 lần",
+      "id": 11
+    },
+    {
+      "name": "Dr.Mask",
+      "manufacture": "Việt Nam",
+      "color": "Xám",
+      "note": "Không dùng bột giặt có chất tẩy mạnh và nên giặt bằng tay",
+      "id": 12
+    }
+  ],
+  "layer": [
+    {
+      "id": 1,
+      "name": "Một lớp"
+    },
+    {
+      "id": 2,
+      "name": "Hai lớp"
+    },
+    {
+      "id": 3,
+      "name": "Ba lớp"
+    },
+    {
+      "id": 4,
+      "name": "Bốn lớp"
+    }
+  ]
+}
